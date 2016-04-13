@@ -1,5 +1,5 @@
 # movies
-
+Django app to show movies
 
 ## quick start
 
