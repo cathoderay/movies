@@ -8,7 +8,7 @@ In order to get started, run:
  $ curl -s https://raw.githubusercontent.com/cathoderay/movies/master/run.sh | bash
 ```
 If everything runs smoothly, you should be able to see something like this:
-![Screenshot](https://github.com/cathoderay/movies/blob/master/screenshots/home.jpg"Home")
+![Screenshot](https://github.com/cathoderay/movies/blob/master/screenshots/home.jpg)
 
 
 This script assumes you have *git*, *virtualenv* and *pip* installed. I suggest you to read it before running. If you trust me, you can run it anyway, =)
