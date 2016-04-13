@@ -1,5 +1,8 @@
+BeautifulSoup==3.2.1
 Django==1.7
 Pillow==3.2.0
+PyYAML==3.11
 argparse==1.2.1
 django-grappelli==2.6.5
+selenium==2.53.1
 wsgiref==0.1.2
