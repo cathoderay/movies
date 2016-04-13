@@ -1,0 +1,22 @@
+{% extends "movies/base.html" %}
+
+{% block content %}
+
+<div class='container jumbotron'>
+   <div class="col-xs-1"></div>
+   <div class="col-xs-11">
+        <span class="header">{{ actor }}</span>
+        <div class="item"></div>
+        <span>País:</span>
+            {% if actor.country %}
+                <span>{{ actor.country }}</span>
+            {% else %}
+                <span>Desconhecido.</span>
+            {% endif %}
+            </span>
+    </div>
+</div>
+
+{% include "movies/related_movies.html" %}
+
+{%endblock %}

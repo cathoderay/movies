@@ -1,0 +1,1993 @@
+- fields:
+    cast:
+    - 0
+    - 1
+    - 2
+    genres:
+    - 2
+    - 0
+    - 8
+    poster: 1460522299.813497.jpg
+    synopsis: No futuro, Chicago está destruída, e seus moradores divididos em facções,
+      cada uma representando uma virtude. Quando Beatrice opta pela facção da audácia,
+      uma diferente da sua família, ela tem que abandonar seu lar e embarcar em uma
+      jornada de autoconhecimento.
+    title: Divergente
+  model: movies.movie
+  pk: 0
+- fields:
+    cast:
+    - 3
+    genres:
+    - 2
+    - 0
+    poster: 1460522300.168770.jpg
+    synopsis: Após os catastróficos eventos em Nova York, Steve Rogers continua seu
+      trabalho como Capitão América para a S.H.I.E.L.D. e tenta se acostumar com o
+      mundo moderno. Com a ajuda da Viúva Negra e um novo aliado, ele irá enfrentar
+      um novo e poderoso inimigo, o Soldado Invernal.
+    title: 'Capitão América 2: O soldado invernal'
+  model: movies.movie
+  pk: 1
+- fields:
+    cast:
+    - 4
+    - 5
+    - 6
+    genres:
+    - 0
+    - 8
+    poster: 1460522300.786393.jpg
+    synopsis: Ameaçada, Lucy aceita trabalhar como mula para a máfia chinesa, transportando
+      drogas dentro do seu estômago. Mas quando o seu corpo acaba absorvendo as drogas,
+      ela ganha poderes sobre-humanos, incluindo a telecinesia, a ausência de dor
+      e a capacidade de adquirir conhecimento infinito.
+    title: Lucy
+  model: movies.movie
+  pk: 2
+- fields:
+    cast:
+    - 7
+    - 8
+    - 9
+    genres:
+    - 0
+    - 8
+    poster: 1460522301.100177.jpg
+    synopsis: Em um planeta Terra pós-apocalíptico, o jovem Thomas acorda sem memória
+      em uma comunidade isolada formada apenas por garotos. Entretanto ele logo irá
+      descobrir que está preso em um labirinto mortal e fará de tudo para escapar
+      de lá.
+    title: 'Maze Runner: correr ou morrer'
+  model: movies.movie
+  pk: 3
+- fields:
+    cast:
+    - 10
+    - 11
+    - 12
+    genres:
+    - 0
+    - 12
+    - 14
+    poster: 1460522301.645326.jpg
+    synopsis: Um veterano da guerra do Afeganistão vai para Londres para tentar esquecer
+      os problemas e se manter longe do perigo. Porém, quando sua namorada é morta,
+      ele tentará descobrir o responsável pelo crime.
+    title: Redenção (2013)
+  model: movies.movie
+  pk: 4
+- fields:
+    cast:
+    - 13
+    - 14
+    - 15
+    genres:
+    - 0
+    - 14
+    poster: 1460522302.205614.jpg
+    synopsis: Ray Breslin, um arquiteto especializado em prisões de segurança máxima,
+      projeta e testa presídios à prova de fugas. Quando é enviado para uma cadeia
+      isolada no meio do oceano, cujo sistema de segurança é baseado em seu próprio
+      modelo, ele precisa encontrar uma brecha que o permita fugir.
+    title: Rota de fuga (2013)
+  model: movies.movie
+  pk: 5
+- fields:
+    cast:
+    - 16
+    - 17
+    - 18
+    genres:
+    - 0
+    - 4
+    poster: 1460522302.841880.jpg
+    synopsis: Os agentes infiltrados Bobby e Stig tentam fazer negócios com um poderoso
+      traficante mexicano, Papi Greco, mas ele se recusa a negociar com a dupla. Eles
+      decidem, então, roubar um banco que recebe o faturamento de Papi, mas descobrem
+      que há mais gente envolvida.
+    title: Dose dupla
+  model: movies.movie
+  pk: 6
+- fields:
+    cast:
+    - 19
+    - 20
+    - 21
+    genres:
+    - 2
+    - 0
+    poster: 1460522303.455080.jpg
+    synopsis: Vivendo nos esgotos de Manhattan, quatro jovens tartarugas vivem reclusas
+      e são treinadas na arte de kung-fu pelo sensei Mestre Splinter. Diante da ameaça
+      do Destruidor e seus planos malignos, Raphael, Michelangelo, Leonardo e Donatello
+      precisam sair de seu esconderijo e salvar a cidade.
+    title: As tartarugas ninja
+  model: movies.movie
+  pk: 7
+- fields:
+    cast:
+    - 22
+    - 23
+    - 24
+    genres:
+    - 2
+    - 0
+    poster: 1460522303.967991.jpg
+    synopsis: 'Peter Quill é abduzido ainda criança por um grupo de mercenários do
+      espaço. Agora, ele é um saqueador que rouba uma poderosa esfera na qual o vilão
+      Ronan tem interesse. Para salvar a galáxia, Peter se une a quatro aliados improváveis:
+      o guaxinim Rocket, a assassina Gamora, Drax, o Destruidor e Groot.'
+    title: Guardiões da Galáxia
+  model: movies.movie
+  pk: 8
+- fields:
+    cast:
+    - 25
+    - 26
+    - 27
+    genres:
+    - 0
+    - 6
+    poster: 1460522304.478344.jpg
+    synopsis: Em 2010, cinco policiais infiltrados no Complexo do Alemão são descobertos
+      pelos traficantes e devem aguardar por sua execução ou por seu resgate. Mas
+      o resgate significa divulgar uma missão secreta realizada pela polícia militar.
+    title: Alemão
+  model: movies.movie
+  pk: 9
+- fields:
+    cast:
+    - 28
+    - 29
+    genres:
+    - 1
+    - 10
+    poster: 1460522309.238795.jpg
+    synopsis: Hiro, um garoto prodígio de 13 anos, faz uma grande apresentação para
+      poder ingressar no laboratório em que seu irmão trabalha. Mas quando um acidente
+      acontece, ele conta com o inesperado conforto do robô inflável Baymax.
+    title: Operação big hero
+  model: movies.movie
+  pk: 10
+- fields:
+    cast:
+    - 30
+    - 31
+    - 32
+    genres:
+    - 1
+    - 10
+    poster: 1460522309.576043.jpg
+    synopsis: 'O malvado Gru está disposto a realizar o maior feito de todos os tempos:
+      roubar a Lua. Se o plano der certo, ele impede Vetor, um novo malvado, de ocupar
+      sua posição, mas a chegada das pequenas irmãs Margo, Edith e Agnes transforma
+      completamente sua vida, dividindo sua atenção com o grande plano.'
+    title: Meu malvado favorito
+  model: movies.movie
+  pk: 11
+- fields:
+    cast:
+    - 33
+    - 34
+    - 24
+    genres:
+    - 1
+    poster: 1460522309.880548.jpg
+    synopsis: 'No Livro Da Vida a lenda mais simbólica é de uma aposta feita entre
+      a deusa La Muerte, governante da Terra dos Lembrados, e seu antigo amor Xibalba,
+      o trapaceiro que reina na Terra dos Esquecidos. A disputa é quem a bela Maria
+      irá escolher: o bondoso violinista Manolo ou o valente Joaquim.'
+    title: Festa no céu
+  model: movies.movie
+  pk: 12
+- fields:
+    cast:
+    - 35
+    - 36
+    - 37
+    genres:
+    - 1
+    - 10
+    poster: 1460522310.399935.jpg
+    synopsis: Depois de inúmeras tentativas de roubar a fórmula secreta do hambúrguer
+      de siri, parece que desta vez Plankton finalmente vai conseguir. Mas a receita
+      desaparece misteriosamente e leva a pacata Fenda do Bíquini rumo ao apocalipse.
+      Agora, Bob Esponja e seus amigos precisam tentar recuperar a fórmula.
+    title: 'Bob Esponja: um herói fora d&#39;água'
+  model: movies.movie
+  pk: 13
+- fields:
+    cast:
+    - 38
+    - 39
+    - 40
+    genres:
+    - 1
+    - 10
+    poster: 1460522310.947185.jpg
+    synopsis: Depois de muitos anos sumido, o Bicho-Papão retorna à Terra com o intuito
+      de acabar com a inocência das crianças. Cabe aos guardiões, Papai Noel, o Coelhinho
+      da Páscoa e a Fada do Dente tentarem impedir que o mal vença. Mas, para isso,
+      terão que convencer o levado Jack Frost a se juntar ao grupo.
+    title: A origem dos guardiões
+  model: movies.movie
+  pk: 14
+- fields:
+    cast:
+    - 41
+    - 42
+    - 43
+    genres:
+    - 1
+    - 10
+    poster: 1460522311.487622.jpg
+    synopsis: Ralph é um vilão de um videogame que não quer mais ser tratado como
+      um cara mau. Para provar que também é capaz de fazer o bem, ele decide ir atrás
+      de uma medalha de herói. Mas suas aventuras acabam botando em perigo todos os
+      jogos do fliperama em que vive.
+    title: Detona Ralph
+  model: movies.movie
+  pk: 15
+- fields:
+    cast:
+    - 44
+    - 45
+    - 46
+    genres:
+    - 1
+    - 2
+    - 10
+    poster: 1460522312.098093.jpg
+    synopsis: Soluço é o filho do chefe de uma tribo viking onde uma das tradições
+      é a luta contra dragões. Porém, ele não concorda com esse costume, o que preocupa
+      seu pai. Quando Soluço conhece o dragão Banguela, ele tem que provar para todos
+      que vikings e dragões podem ser amigos para salvar sua nova amiga.
+    title: Como treinar o seu dragão
+  model: movies.movie
+  pk: 16
+- fields:
+    cast:
+    - 47
+    - 48
+    - 49
+    genres:
+    - 1
+    - 10
+    poster: 1460522312.574162.jpg
+    synopsis: Em um acidente aéreo na selva africana, apenas uma criança sobrevive.
+      Isolado do mundo, Tarzan cresce aprendendo as leis da selva com um grupo de
+      gorilas. Agora, ele precisa enfrentar empresários gananciosos enviados à floresta
+      pela Greystoke Energies, empresa que pertencia aos seus pais.
+    title: 'Tarzan: a evolução da lenda'
+  model: movies.movie
+  pk: 17
+- fields:
+    cast:
+    - 50
+    - 51
+    genres:
+    - 1
+    - 10
+    poster: 1460522313.023028.jpg
+    synopsis: 'Franjinha está com uma nova invenção ainda mais mirabolante: uma máquina
+      do tempo, capaz de transportar Mônica e sua turma para outras épocas. Quando
+      acidentalmente os quatro elementos da natureza caem dentro da máquina, a história
+      fica misturada e a invenção descontrolada, causando muita confusão.'
+    title: Turma da Mônica em uma aventura no tempo
+  model: movies.movie
+  pk: 18
+- fields:
+    cast:
+    - 52
+    - 53
+    - 54
+    genres:
+    - 1
+    - 2
+    - 4
+    - 10
+    poster: 1460522313.558972.jpg
+    synopsis: Uma zebra que sonha com a vida livre e selvagem acaba causando a transferência
+      dela e seus amigos - um leão, uma girafa e um hipopótamo - do zoológico de Nova
+      York para uma reserva na África. Acidentalmente, o grupo acaba em uma ilha totalmente
+      selvagem, onde a vida é bem diferente do que esperavam.
+    title: Madagascar
+  model: movies.movie
+  pk: 19
+- fields:
+    cast:
+    - 55
+    - 56
+    - 57
+    genres:
+    - 2
+    - 13
+    poster: 1460522316.881899.jpg
+    synopsis: Último filme da emocionante saga de amor e aventura que conquistou o
+      mundo. Depois de seu casamento e o nascimento de sua filha, Renesmee, Bella
+      e Edward se juntam a Jacob e outros clãs de vampiros para impedir que os Volturi
+      cometam uma terrível injustiça com o fruto de seu amor.
+    title: 'A saga crepúsculo: amanhecer - parte 2'
+  model: movies.movie
+  pk: 20
+- fields:
+    cast:
+    - 58
+    - 59
+    - 60
+    genres:
+    - 2
+    - 7
+    poster: 1460522317.454784.jpg
+    synopsis: Desde pequena a gentil Malévola é a protetora do reino dos Moors. Quando
+      Stefan, seu grande amor, trai a confiança dela pela ambição de virar rei, ela
+      se torna má e vingativa. Assim, ela amaldiçoa a filha do rei, Aurora, a um sono
+      eterno que só poderá ser quebrado por um beijo de amor verdadeiro.
+    title: Malévola
+  model: movies.movie
+  pk: 21
+- fields:
+    cast:
+    - 61
+    - 62
+    - 63
+    genres:
+    - 2
+    - 0
+    poster: 1460522317.962184.jpg
+    synopsis: Resgatado ainda bebê pela irmã do faraó, Moisés passa a viver com a
+      família real sem saber da sua origem hebraica. Quando adulto, é escolhido por
+      Deus para libertar os hebreus da opressão de Ramsés. No caminho, ele precisa
+      enfrentar a fúria dos egípcios e atravessar o Mar Vermelho.
+    title: 'Êxodo: deuses e reis'
+  model: movies.movie
+  pk: 22
+- fields:
+    cast:
+    - 64
+    - 65
+    - 66
+    genres:
+    - 2
+    - 0
+    poster: 1460522318.423420.jpg
+    synopsis: Uma misteriosa doença se espalha pelo mundo e ameaça dizimar a humanidade.
+      Um ex-investigador da ONU topa a missão de percorrer o caminho inverso da contaminação
+      para descobrir uma maneira de conter o contágio antes do apocalipse.
+    title: Guerra mundial Z
+  model: movies.movie
+  pk: 23
+- fields:
+    cast:
+    - 55
+    - 56
+    - 57
+    genres:
+    - 2
+    - 13
+    poster: 1460522318.923446.jpg
+    synopsis: Com o novo casamento da mãe, Bella recomeça sua vida com o pai em outra
+      cidade. Na nova escola, fica impressionada com o encantador e misterioso Edward
+      Cullen. Os dois se envolvem intensamente e mesmo após descobrir a verdade sobre
+      ele, Bella decide lutar para que os dois continuem juntos.
+    title: Crepúsculo
+  model: movies.movie
+  pk: 24
+- fields:
+    cast:
+    - 67
+    - 68
+    - 69
+    genres:
+    - 2
+    poster: 1460522319.381078.jpg
+    synopsis: A épica conclusão da aventura de Bilbo Bolseiro. Após o dragão Smaug
+      ser expulso de Erebor, o arqueiro Bard consegue derrotá-lo. Agora, Bilbo, Gandalf,
+      Thorin Escudo de Carvalho e sua companhia de anões precisam enfrentar elfos
+      e orcs na Batalha dos Cinco Exércitos.
+    title: 'O Hobbit: A batalha dos cinco exércitos'
+  model: movies.movie
+  pk: 25
+- fields:
+    cast:
+    - 70
+    - 71
+    - 72
+    genres:
+    - 3
+    - 6
+    poster: 1460522323.633469.jpg
+    synopsis: Steve Jobs foi um dos empreendedores mais visionários da história recente.
+      O filme conta como um garoto meio hippie com pouco foco nos estudos se tornou
+      o poderoso presidente da Apple. Nessa trajetória, sua personalidade forte e
+      obsessiva o fez ganhar admiradores e também muitos desafetos.
+    title: Jobs
+  model: movies.movie
+  pk: 26
+- fields:
+    cast:
+    - 73
+    - 74
+    - 75
+    genres:
+    - 3
+    - 6
+    poster: 1460522324.137377.jpg
+    synopsis: Baseado na biografia de Stephen Hawking, o filme mostra as importantes
+      descobertas do aclamado astrofísico sobre o tempo. Além de retratar seu relacionamento
+      com a esposa Jane e os desafios que vieram com a descoberta de uma doença degenerativa.
+    title: A teoria de tudo
+  model: movies.movie
+  pk: 27
+- fields:
+    cast:
+    - 76
+    - 77
+    - 78
+    genres:
+    - 3
+    - 6
+    poster: 1460522324.596997.jpg
+    synopsis: A trajetória da atriz Linda Lovelace, retratando o início tumultuado
+      de sua carreira através do marido abusivo e como foi de uma garota de família
+      tradicional à protagonista do clássico pornô “Garganta Profunda”.
+    title: Lovelace
+  model: movies.movie
+  pk: 28
+- fields:
+    cast:
+    - 79
+    - 80
+    - 81
+    genres:
+    - 3
+    - 6
+    poster: 1460522325.067154.jpg
+    synopsis: Durante a Segunda Guerra, o avião com o atleta e soldado Louis Zamperini
+      cai no oceano por uma falha na turbina. Ele luta para se manter vivo tendo que
+      enfrentar inúmeros riscos até ser capturado por japoneses. No campo de prisioneiros,
+      Louis enfrentará os terrores do Sargento Watanabe.
+    title: Invencível
+  model: movies.movie
+  pk: 29
+- fields:
+    cast:
+    - 82
+    - 83
+    - 84
+    genres:
+    - 3
+    - 6
+    poster: 1460522325.587401.jpg
+    synopsis: Os últimos 19 dias de vida do presidente do Brasil Getúlio Vargas. Em
+      um momento de crise política nunca visto antes, em decorrências das acusações
+      do atentado contra o jornalista Carlos Lacerda, Getúlio é pressionado até o
+      limite quando toma a decisão de cometer suicídio.
+    title: Getúlio
+  model: movies.movie
+  pk: 30
+- fields:
+    cast:
+    - 85
+    - 86
+    - 87
+    genres:
+    - 3
+    - 6
+    poster: 1460522326.040995.jpg
+    synopsis: O filme percorre 50 anos da vida de Tim Maia, artista que transformou
+      o cenário da música brasileira com seu som que possuía doses de funk e soul.
+      Da sua infância e adolescência no Rio de Janeiro, passando por sua temporada
+      em Nova York e o sucesso no Brasil, até a morte, aos 55 anos de idade.
+    title: Tim Maia
+  model: movies.movie
+  pk: 31
+- fields:
+    cast:
+    - 88
+    - 89
+    - 90
+    genres:
+    - 0
+    - 3
+    poster: 1460522326.581058.jpg
+    synopsis: No pós-guerra de Hong Kong, o que começa como um simples desafio de
+      estilos de kung fu logo leva o lendário Wing Chun Ip Man mestre para o submundo
+      escuro e perigoso das Tríades. Para defender a vida e a honra, não lhe resta
+      escolha a não ser lutar novamente.
+    title: 'Ip Man: a batalha final'
+  model: movies.movie
+  pk: 32
+- fields:
+    cast:
+    - 91
+    - 92
+    - 93
+    genres:
+    - 3
+    - 6
+    poster: 1460522327.141494.jpg
+    synopsis: Cinebiografia de Irmã Dulce. O filme mostra como a religiosa enfrentou
+      uma doença respiratória, o machismo e os dogmas da Igreja para dedicar sua vida
+      ao cuidado dos miseráveis.
+    title: Irmã Dulce
+  model: movies.movie
+  pk: 33
+- fields:
+    cast:
+    - 94
+    - 95
+    - 96
+    genres:
+    - 3
+    - 6
+    poster: 1460522327.672819.jpg
+    synopsis: Após a morte de sua mãe, Cheryl nunca mais foi a mesma. Depois de passar
+      por um divórcio e uma fase sombria em sua vida, ela decide fazer uma trilha
+      de mais de mil milhas pela costa norte-americana do oceano Pacífico para reencontrar
+      a si mesma.
+    title: Livre
+  model: movies.movie
+  pk: 34
+- fields:
+    cast:
+    - 97
+    - 98
+    - 99
+    genres:
+    - 3
+    - 6
+    poster: 1460522328.171019.jpg
+    synopsis: Cinebiografia do aclamado escritor brasileiro Paulo Coelho. A história
+      perpassa os momentos mais importantes de sua vida e carreira, como traumas,
+      relação com drogas, sexualidade e a parceria com o músico Raul Seixas.
+    title: Não pare na pista - A melhor história de Paulo Coelho
+  model: movies.movie
+  pk: 35
+- fields:
+    cast:
+    - 100
+    - 101
+    - 102
+    genres:
+    - 4
+    - 13
+    poster: 1460522331.635188.jpg
+    synopsis: Fábio e Miá se apaixonam à primeira vista e, com apenas um mês de namoro,
+      decidem se casar. Para a lua de mel, decidem fazer um cruzeiro até a Europa.
+      Só que, durante a viagem, eles encontram amores do passado, que também estão
+      casados e em lua de mel.
+    title: Meu passado me condena
+  model: movies.movie
+  pk: 36
+- fields:
+    cast:
+    - 103
+    - 104
+    - 105
+    genres:
+    - 4
+    - 13
+    poster: 1460522332.178981.jpg
+    synopsis: Fernanda é uma mulher bonita, inteligente e charmosa, que trabalha como
+      organizadora de casamentos. Com 39 anos, ela é solteira e continua em busca
+      do par perfeito. Nessa procura, ela lida com as mais hilárias situações, sempre
+      contando com a ajuda do seu sócio Anibal e a amiga Nathalie.
+    title: Os homens são de Marte... e é pra lá que eu vou
+  model: movies.movie
+  pk: 37
+- fields:
+    cast:
+    - 106
+    - 107
+    - 108
+    genres:
+    - 4
+    poster: 1460522332.593505.jpg
+    synopsis: Quando seu marido pede o divórcio, Adriana fica na fossa. Mas quando
+      descobre que ele vai fazer um cruzeiro ao lado da nova namorada, ela, a irmã
+      e a empregada decidem embarcar no mesmo navio para que Adriana possa reconquistá-lo.
+      Juntas, as três se metem em muitas confusões.
+    title: 'S.O.S.: mulheres ao mar'
+  model: movies.movie
+  pk: 38
+- fields:
+    cast:
+    - 109
+    - 110
+    - 111
+    genres:
+    - 0
+    - 4
+    poster: 1460522333.088881.jpg
+    synopsis: Frank Moses queria levar uma vida normal ao lado da namorada Sarah,
+      mas seu parceiro Marvin Boggs aparece para avisá-los de que suas vidas estão
+      em perigo. Agora, eles irão percorrer o mundo, reencontrar velhos parceiros
+      e enfrentar antigos inimigos.
+    title: Red 2 - aposentados e ainda mais perigosos
+  model: movies.movie
+  pk: 39
+- fields:
+    cast:
+    - 112
+    - 113
+    - 114
+    genres:
+    - 4
+    poster: 1460522333.614375.jpg
+    synopsis: Mac e Kelly acabam de mudar para um bairro tranquilo após terem um filho.
+      Só que são forçados a viver ao lado de uma república de estudantes, que acabam
+      com a paz da vizinhança.
+    title: Vizinhos
+  model: movies.movie
+  pk: 40
+- fields:
+    cast:
+    - 115
+    - 105
+    - 116
+    genres:
+    - 4
+    poster: 1460522334.056543.jpg
+    synopsis: Dona Hermínia é uma mãe dedicada. Talvez dedicada até demais para o
+      gosto dos seus filhos, Marcelina e Juliano, que a consideram uma chata. Sentindo-se
+      desprezada, ela decide passar um tempo na casa de sua tia Zélia para desabafar
+      e relembrar o passado.
+    title: Minha mãe é uma peça
+  model: movies.movie
+  pk: 41
+- fields:
+    cast:
+    - 117
+    - 118
+    - 119
+    genres:
+    - 4
+    - 6
+    poster: 1460522336.693329.jpg
+    synopsis: Um milionário francês tetraplégico contrata um homem da periferia para
+      ser o seu acompanhante, apesar de sua aparente falta de preparo e vontade para
+      o trabalho. No entanto, à medida que vão se conhecendo, a relação que antes
+      era profissional cresce e vira uma amizade que mudará a vida dos dois.
+    title: Intocáveis
+  model: movies.movie
+  pk: 42
+- fields:
+    cast:
+    - 120
+    - 121
+    - 122
+    genres:
+    - 4
+    - 13
+    poster: 1460522338.312686.jpg
+    synopsis: Em um cenário pós-apocalíptico, o relacionamento do zumbi R. com a humana
+      Julie começa a afetar outros zumbis, e eles começam a recuperar sua humanidade.
+      Mas o general Grigio, pai de Julie, está interessado apenas em exterminá-los.
+    title: Meu namorado é um zumbi
+  model: movies.movie
+  pk: 43
+- fields:
+    cast:
+    - 123
+    - 124
+    - 125
+    genres:
+    - 4
+    poster: 1460522339.916867.jpg
+    synopsis: João Ernesto é um politico corrupto, candidato à presidência da República.
+      Ele recebe uma mandinga da avó que o impede de mentir. Agora terá que vencer
+      as eleições falando apenas a verdade.
+    title: O candidato honesto
+  model: movies.movie
+  pk: 44
+- fields:
+    cast:
+    - 42
+    genres:
+    - 5
+    poster: 1460522345.059414.jpg
+    synopsis: Produção dos estúdios Disney que acompanha um ano na vida de uma família
+      de ursos no Alasca. Com perseverança, dois filhotes aprendem a sobreviver no
+      mundo selvagem.
+    title: Ursos
+  model: movies.movie
+  pk: 45
+- fields:
+    cast:
+    - 126
+    - 127
+    genres:
+    - 5
+    poster: 1460522346.504079.jpg
+    synopsis: O documentário mostra a vida submarina, de criaturas que vivem sem a
+      luz do sol e parecem ser verdadeiros alienígenas em nosso planeta.
+    title: Criaturas das profundezas
+  model: movies.movie
+  pk: 46
+- fields:
+    cast:
+    - 128
+    - 129
+    - 130
+    genres:
+    - 5
+    poster: 1460522347.598323.jpg
+    synopsis: Nos Estados Unidos, são feitos empréstimos para estudantes que passam
+      de 1 trilhão de dólares. Neste documentário, diversas universidades são avaliadas,
+      questionando seus custos, importância e interesses.
+    title: 'Torre de Marfim: a crise universitária americana'
+  model: movies.movie
+  pk: 47
+- fields:
+    cast:
+    - 131
+    - 132
+    - 133
+    genres:
+    - 5
+    poster: 1460522348.138211.jpg
+    synopsis: Documentário sobre Mike Tyson, ex-campeão de pesos pesados. Narrado
+      pelo próprio lutador, o filme mistura entrevistas com imagens de arquivo. Sua
+      vida é mostrada desde a infância - quando sofria bullying - passando pelo início
+      de sua carreira, suas grandes vitórias até os escândalos.
+    title: Tyson
+  model: movies.movie
+  pk: 48
+- fields:
+    cast: []
+    genres:
+    - 5
+    - 6
+    poster: 1460522348.654068.jpg
+    synopsis: 'O documentarista Michael Moore volta a apontar sua câmera para mais
+      um problema que atinge os Estados Unidos: o sistema de saúde americano. Através
+      de relatos de seus usuários e da comparação com outros países, Moore mostra
+      a crise que o sistema atr'
+    title: S.O.S. saúde
+  model: movies.movie
+  pk: 49
+- fields:
+    cast:
+    - 134
+    - 135
+    genres:
+    - 5
+    poster: 1460522349.181493.jpg
+    synopsis: Documentário que explora alguns dos mais extraordinários locais da Terra.
+      Uma experiência cinematográfica ímpar em lugares exóticos e isolados do planeta,
+      com a qualidade e encanto dos estúdios Disney.
+    title: Planeta sagrado
+  model: movies.movie
+  pk: 50
+- fields:
+    cast:
+    - 136
+    - 137
+    genres:
+    - 5
+    poster: 1460522349.683358.jpg
+    synopsis: Kevin, Joe e Nick convidam você para conhecer o seu mundo particular
+      nesta aventura única pelos bastidores do grupo musical mais amado do momento
+      - incluindo participações especiais de estrelas como Demi Lovato e Taylor Swift!
+      Agarre seu passe VIP e prepare-se para o evento musical do ano!
+    title: Jonas Brothers 3d - o show
+  model: movies.movie
+  pk: 51
+- fields:
+    cast:
+    - 138
+    - 139
+    - 140
+    genres:
+    - 5
+    poster: 1460522350.166999.jpg
+    synopsis: O documentário conta a história dos estúdios Pixar, desde sua criação,
+      os momentos de crise e a volta por cima com o sucesso da animação Toy Story.
+      Dubladores, funcionários do estúdio, diretores e personalidades como Steve Jobs
+      contribuem para as entrevistas.
+    title: A história da Pixar
+  model: movies.movie
+  pk: 52
+- fields:
+    cast:
+    - 141
+    - 142
+    genres:
+    - 5
+    poster: 1460522350.634759.jpg
+    synopsis: Documentário sobre a longa relação da atriz Liv Ulmann e o diretor Ingmar
+      Bergman que, juntos, formaram uma colaboração muito rica para o cinema. O primeiro
+      trabalho deles foi “Persona”, quando Liv ainda era uma atriz novata. A partir
+      daí, nunca mais se separaram.
+    title: Liv &amp; Ingmar – uma história de amor
+  model: movies.movie
+  pk: 53
+- fields:
+    cast:
+    - 143
+    - 144
+    - 145
+    genres:
+    - 5
+    poster: 1460522351.089193.jpg
+    synopsis: Quando criança, o cineasta James Cameron sonhava em conhecer a parte
+      mais profunda do oceano. No filme, a narração de um mergulho de cerca de sete
+      quilômetros de profundidade e com muitos riscos.
+    title: Desafio do mar profundo
+  model: movies.movie
+  pk: 54
+- fields:
+    cast:
+    - 146
+    - 147
+    - 148
+    genres:
+    - 6
+    - 13
+    poster: 1460522354.925698.jpg
+    synopsis: Anastasia Steele é uma estudante tímida que precisa entrevistar o poderoso
+      e charmoso empresário Christian Grey. A atração entre eles é imediata e logo
+      surge uma complexa relação que irá testar todas as barreiras dela.
+    title: Cinquenta Tons de Cinza – Versão Estendida
+  model: movies.movie
+  pk: 55
+- fields:
+    cast:
+    - 149
+    - 150
+    - 151
+    genres:
+    - 6
+    poster: 1460522355.387860.jpg
+    synopsis: A continuação da história das aventuras sexuais de Joe, uma mulher de
+      50 anos que foi diagnosticada como ninfomaníaca. Ela conta sua história pessoal
+      para Seligman, um homem mais velho que ouve atentamente os aspectos mais sombrios
+      dela, que tem fortes desejos sexuais desde jovem.
+    title: Ninfomaníaca - volume II
+  model: movies.movie
+  pk: 56
+- fields:
+    cast:
+    - 152
+    - 153
+    - 154
+    genres:
+    - 6
+    - 8
+    poster: 1460522355.992582.jpg
+    synopsis: Em uma comunidade aparentemente perfeita , sem guerra , a dor , o sofrimento
+      , as diferenças ou escolha, um menino é escolhido para aprender com um homem
+      idoso sobre a verdadeira dor e prazer do mundo &quot;real&quot;.
+    title: O doador de memórias
+  model: movies.movie
+  pk: 57
+- fields:
+    cast:
+    - 55
+    - 56
+    - 57
+    genres:
+    - 2
+    - 6
+    - 13
+    poster: 1460522356.534536.jpg
+    synopsis: No quarto filme da saga Crepúsculo, Bella e Edward finalmente se casam.
+      A felicidade dos dois parece não ter limites, e Bella descobre estar grávida.
+      Mas a criança que eles esperam gera grandes receios e os coloca em uma disputa
+      mortal, envolvendo os diferentes clãs de vampiros e lobisomens.
+    title: 'A saga crepúsculo: amanhecer - parte 1'
+  model: movies.movie
+  pk: 58
+- fields:
+    cast:
+    - 155
+    - 156
+    - 157
+    genres:
+    - 6
+    poster: 1460522357.109961.jpg
+    synopsis: Baseado na emocionante história real de uma família de turistas durante
+      o Tsunami que atingiu o sudeste asiático em 2004. Após a destruição causada
+      pela onda gigante, uma mãe tenta sobreviver com seu filho adolescente e reencontrar
+      seu marido e seus dois filhos pequenos no meio do caos na Tailândia..
+    title: O impossível
+  model: movies.movie
+  pk: 59
+- fields:
+    cast:
+    - 61
+    - 158
+    - 159
+    genres:
+    - 0
+    - 6
+    poster: 1460522357.754247.jpg
+    synopsis: Tobey é um mecânico que participa de corridas ilegais de rua e, para
+      manter a sua oficina funcionando, se associa a um arrogante ex-piloto de Fórmula
+      Indy. Mas, ao participar de uma corrida que acaba em tragédia, é preso por um
+      crime que não cometeu. Após ser libertado, ele está em busca de vingança.
+    title: Need for speed - o filme
+  model: movies.movie
+  pk: 60
+- fields:
+    cast:
+    - 160
+    - 161
+    - 162
+    genres:
+    - 0
+    - 6
+    poster: 1460522358.314134.jpg
+    synopsis: Benjamin Ford é um veterano da Guerra da Bósnia, que decide morar em
+      uma cabana isolada para esquecer os traumas dos anos de combate. Mas sua paz
+      é interrompida pelo militar bósnio Emil Kovak, que o persegue para acertar as
+      contas, dando início a um longo combate físico e psicológico .
+    title: Temporada de caça
+  model: movies.movie
+  pk: 61
+- fields:
+    cast:
+    - 163
+    genres:
+    - 7
+    - 13
+    poster: 1460522391.249705.jpg
+    synopsis: Um comerciante falido arranca uma rosa de um jardim encantado e se depara
+      com uma terrível Fera. Para salvar seu pai de um destino cruel, Bela se voluntaria
+      para ir em seu lugar. Enquanto está aprisionada, Bela começa a ter sonhos que
+      contam a história por trás da Fera e de seu castelo.
+    title: A Bela e a Fera (2014)
+  model: movies.movie
+  pk: 62
+- fields:
+    cast:
+    - 158
+    - 164
+    - 165
+    genres:
+    - 0
+    - 7
+    poster: 1460522391.906500.jpg
+    synopsis: Depois de reinar em paz por anos, o príncipe Vlad Tepes, famoso nos
+      campos de batalha, inicia uma guerra com o rei Mehmed, que exige que sejam entregues
+      100 crianças para o exército turco. Agora, Vlad precisa se tornar um monstro
+      para ganhar o poder necessário para proteger sua família.
+    title: 'Drácula: a história nunca contada'
+  model: movies.movie
+  pk: 63
+- fields:
+    cast:
+    - 166
+    - 167
+    - 168
+    genres:
+    - 0
+    - 7
+    poster: 1460522392.809341.jpg
+    synopsis: O monstro criado pelo Dr. Frankenstein é atacado por demônios, mas é
+      salvo por um grupo de gárgulas. Duzentos anos após esse episódio, o monstro
+      descobre o motivo do interesse dos demônios.
+    title: 'Frankenstein: entre anjos e demônios'
+  model: movies.movie
+  pk: 64
+- fields:
+    cast:
+    - 169
+    - 170
+    - 171
+    genres:
+    - 7
+    - 10
+    poster: 1460522393.300249.jpg
+    synopsis: 'Após a morte de seu amado pai, Ella passa a conviver com sua terrível
+      madrasta e as filhas, que a tratam como criada. Ella, porém, lembra sempre do
+      que sua mãe lhe ensinou: ser corajosa e gentil. Quando o baile real é anunciado,
+      uma fada madrinha aparece para mudar seu destino.'
+    title: Cinderela (2015)
+  model: movies.movie
+  pk: 65
+- fields:
+    cast:
+    - 172
+    - 173
+    - 154
+    genres:
+    - 7
+    - 11
+    poster: 1460522393.632030.jpg
+    synopsis: Amaldiçoados por uma bruxa para que nunca tenham filhos, um casal precisa
+      entregar quatro objetos para que o feitiço seja desfeito. Na floresta, eles
+      encontram Cinderela, o Príncipe Encantado, Chapéuzinho e João. Mas logo todos
+      irão aprender a ter cuidado com o que desejam.
+    title: Caminhos da floresta
+  model: movies.movie
+  pk: 66
+- fields:
+    cast:
+    - 174
+    - 175
+    - 176
+    genres:
+    - 2
+    - 0
+    - 7
+    poster: 1460522394.052092.jpg
+    synopsis: O famoso herói Thor, Deus do Trovão, graças à sua vaidade e ao seu temperamento
+      explosivo, inicia uma guerra no reino de Asgard. Como castigo, ele é enviado
+      à Terra para conviver com humanos, mas tudo piora quando, mesmo na Terra, Thor
+      é procurado pelos seus inimigos do distante reino.
+    title: Thor
+  model: movies.movie
+  pk: 67
+- fields:
+    cast:
+    - 177
+    - 178
+    - 151
+    genres:
+    - 0
+    - 7
+    poster: 1460522394.550611.jpg
+    synopsis: Thomas é um jovem que tem o dom de ver espíritos e demônios. Quando
+      vê um homem misterioso entrar em seu restaurante rodeado de forças obscuras,
+      ele percebe que algo está errado e que o mal chegou à cidade ameaçando todos
+      que conhece. Thomas é o único que pode detê-lo.
+    title: O estranho Thomas
+  model: movies.movie
+  pk: 68
+- fields:
+    cast:
+    - 179
+    - 180
+    - 181
+    genres:
+    - 0
+    - 7
+    poster: 1460522395.043471.jpg
+    synopsis: Muitos anos após a morte de sua amada, Drácula conhece Alina e acredita
+      que ela seja a reencarnação de seu amor perdido. Os amigos de Alina, liderados
+      por Van Helsing, terão que enfrentar mortos-vivos em uma batalha contra o poder
+      e a malícia do senhor dos vampiros.
+    title: Drácula - O príncipe das trevas
+  model: movies.movie
+  pk: 69
+- fields:
+    cast:
+    - 182
+    - 183
+    - 184
+    genres:
+    - 0
+    - 7
+    poster: 1460522395.551413.jpg
+    synopsis: Quando crianças, João e Maria matam uma bruxa má que os havia capturado.
+      Depois desse trauma, eles se tornam famosos caçadores de bruxas que vivem atrás
+      de recompensas. Agora encararão seu maior desafio, impedir que a bruxa Muriel
+      sacrifique 12 crianças no ritual maligno da Lua de Sangue.
+    title: 'João e Maria: caçadores de bruxas'
+  model: movies.movie
+  pk: 70
+- fields:
+    cast:
+    - 35
+    - 185
+    - 186
+    genres:
+    - 8
+    poster: 1460522399.069022.jpg
+    synopsis: Trinta anos no futuro, o planeta Terra é um grande deserto. Jacq Vaucan
+      é um agente de seguros da Robotics Corporation que investiga casos de manipulação
+      de robôs. Um dia, ele descobre um mistério mais complexo do que qualquer máquina,
+      que irá mudar drasticamente o destino da humanidade.
+    title: Agente do futuro
+  model: movies.movie
+  pk: 71
+- fields:
+    cast:
+    - 187
+    - 188
+    - 189
+    genres:
+    - 0
+    - 8
+    poster: 1460522399.660306.jpg
+    synopsis: Anos após ter liderado uma revolução, o macaco César constrói um lar
+      para os primatas longe dos humanos. Estes, por sua vez, enfrentam uma epidemia
+      que está exterminando a humanidade. A salvação de um grupo de sobreviventes
+      depende da paz entre eles e os macacos liderados por César.
+    title: 'Planeta dos macacos: o confronto'
+  model: movies.movie
+  pk: 72
+- fields:
+    cast:
+    - 155
+    - 190
+    - 176
+    genres:
+    - 2
+    - 8
+    poster: 1460522400.251055.jpg
+    synopsis: Obi-Wan e seu mentor embarcam em uma perigosa aventura na tentativa
+      de salvar o planeta das garras de Darth Sidious. Durante a viagem, eles conhecem
+      um habilidoso menino e decidem treiná-lo para se tornar um Jedi. Mas o tempo
+      irá revelar que as coisas nem sempre são o que aparentam ser.
+    title: 'Star Wars: episódio I - a ameaça fantasma'
+  model: movies.movie
+  pk: 73
+- fields:
+    cast:
+    - 191
+    - 192
+    - 193
+    genres:
+    - 0
+    - 8
+    poster: 1460522400.847951.jpg
+    synopsis: Após sofrer um intenso ataque dos membros da resistência, Darth Vader
+      planeja uma contraofensiva. Enquanto isso, Luke Skywalker procura o Mestre Yoda
+      para ensiná-lo a dominar a Força e transformá-lo em um cavaleiro jedi. Mas Vader
+      tem outros planos para Luke.
+    title: 'Star Wars: episódio V - o império contra-ataca'
+  model: movies.movie
+  pk: 74
+- fields:
+    cast:
+    - 191
+    - 192
+    - 194
+    genres:
+    - 0
+    - 8
+    poster: 1460522401.320923.jpg
+    synopsis: Em uma galáxia distante, o controle está nas mãos do cruel Império.
+      O jovem Luke Skywalker se vê envolvido em uma guerra intergaláctica quando seu
+      tio compra dois robôs, R2-D2 e C-3PO, que contém uma mensagem da líder dos rebeldes,
+      a princesa Leia.
+    title: 'Star Wars: episódio IV - uma nova esperança'
+  model: movies.movie
+  pk: 75
+- fields:
+    cast:
+    - 195
+    - 196
+    - 3
+    genres:
+    - 0
+    - 8
+    poster: 1460522401.833953.jpg
+    synopsis: Depois de sofrer sucessivas rejeições no alistamento do exército, Steve
+      Rogers finalmente consegue uma vaga. Ele é aceito para participar de um projeto
+      experimental que o transforma em Capitão América, um super-herói destinado a
+      defender os ideais americanos e a lutar contra o mal.
+    title: 'Capitão América: O primeiro vingador'
+  model: movies.movie
+  pk: 76
+- fields:
+    cast:
+    - 197
+    - 198
+    - 199
+    genres:
+    - 9
+    poster: 1460522405.786916.jpg
+    synopsis: Durante a Segunda Guerra Mundial, uma equipe de paraquedistas chega
+      ao Sul da França para apoiar tropas aliadas que marchavam para Berlim. Porém,
+      assim que desembarcam, são atacados, e três dos paraquedistas acabam encontrando
+      soldados franceses em cativeiro, e decidem libertá-los.
+    title: Santos e soldados - missão Berlim
+  model: movies.movie
+  pk: 77
+- fields:
+    cast:
+    - 109
+    - 200
+    - 201
+    genres:
+    - 6
+    - 9
+    poster: 1460522406.316359.jpg
+    synopsis: Durante a Segunda Guerra Mundial, o jovem tenente Tommy Hart é capturado
+      e enviado para um campo de prisioneiros. Um soldado americano é morto no local
+      e o tenente é designado pelo coronel experiente William McNamara para defender
+      o piloto negro, acusado do crime, em um tribunal marcial.
+    title: A guerra de Hart
+  model: movies.movie
+  pk: 78
+- fields:
+    cast:
+    - 202
+    - 203
+    genres:
+    - 6
+    - 9
+    poster: 1460522406.799738.jpg
+    synopsis: Após voltar pra casa depois de um longo período no Afeganistão, uma
+      condecorada médica do exército americano tem dificuldades de reconquistar seu
+      filho de 5 anos.
+    title: Laços de família
+  model: movies.movie
+  pk: 79
+- fields:
+    cast:
+    - 204
+    - 33
+    - 205
+    genres:
+    - 6
+    - 9
+    poster: 1460522407.248727.jpg
+    synopsis: Após servir na Guerra do Iraque, sargento volta para sua cidade natal
+      no Texas e tenta se reinserir na vida que deixou pra trás. Quando tudo parecia
+      voltar aos eixos, o Exército inesperadamente o convoca para uma nova missão,
+      pondo em xeque tudo em que ele acredita.
+    title: Stop-Loss - a lei da guerra
+  model: movies.movie
+  pk: 80
+- fields:
+    cast:
+    - 206
+    - 207
+    - 208
+    genres:
+    - 0
+    - 9
+    poster: 1460522407.816831.jpg
+    synopsis: 'Behind Enemy Lines: Colombia é um filme de guerra de 2009 dirigido
+      por Tim Matheson e estrelado por Joe Manganiello e o lutador da WWE Mr. Kennedy
+      (Ken Anderson).'
+    title: Atrás das linhas inimigas Iii - operação Colômbia
+  model: movies.movie
+  pk: 81
+- fields:
+    cast:
+    - 209
+    - 210
+    - 211
+    genres:
+    - 6
+    - 9
+    poster: 1460522408.339931.jpg
+    synopsis: No Afeganistão, uma mulher se emociona falando com seu marido, um herói
+      de guerra em estado vegetativo. Através da sua confissão sobre sofrimentos,
+      solidão e sonhos, ela tenta encontrar um caminho para recomeçar a vida.
+    title: A pedra de paciência
+  model: movies.movie
+  pk: 82
+- fields:
+    cast:
+    - 212
+    - 213
+    - 214
+    genres:
+    - 4
+    - 10
+    poster: 1460522413.526151.jpg
+    synopsis: Quando o filho da Bela e da Fera assume o trono, ele decide perdoar
+      os filhos dos vilões mais famosos dos contos de fada e permitir que eles estudem
+      no colégio local. Agora Mal, Evie, Jay e Carlos precisam decidir se seguirão
+      o maléfico caminho de seus pais ou se tomarão seus próprios rumos.
+    title: Descendentes
+  model: movies.movie
+  pk: 83
+- fields:
+    cast:
+    - 160
+    - 215
+    genres:
+    - 11
+    - 13
+    poster: 1460522417.328523.jpg
+    synopsis: Na Califórnia da década de 50, Danny e Sandy trocam juras de amor mas
+      se separam, pois ela voltará para a Austrália. Entretanto, os planos mudam e
+      Sandy por acaso se matricula na escola de Danny. Para fazer gênero, ele infantilmente
+      lhe dá uma esnobada, mas os dois continuam apaixonados.
+    title: Grease - nos tempos da brilhantina
+  model: movies.movie
+  pk: 84
+- fields:
+    cast:
+    - 76
+    - 154
+    - 216
+    genres:
+    - 11
+    poster: 1460522417.935856.jpg
+    synopsis: Sophie nunca conheceu a identidade de seu pai. Ao encontrar o diário
+      de sua mãe, ela percebe que tem três possíveis &quot;pais&quot;. Prestes a se
+      casar, ela, secretamente, convida os três homens para a cerimônia, a fim de
+      saber a verdade. Adaptação do musical da Broadway, com músicas da banda ABBA.
+    title: Mamma Mia!
+  model: movies.movie
+  pk: 85
+- fields:
+    cast:
+    - 217
+    - 218
+    - 219
+    genres:
+    - 11
+    - 13
+    poster: 1460522418.393026.jpg
+    synopsis: Adaptação moderna da clássica história em que dois jovens se envolvem
+      em um apaixonante porém frustrado romance.
+    title: O morro dos ventos uivantes
+  model: movies.movie
+  pk: 86
+- fields:
+    cast:
+    - 220
+    - 221
+    genres:
+    - 10
+    - 11
+    poster: 1460522418.903180.jpg
+    synopsis: Xuxa ajuda sua ex-escola de dança a ganhar concurso e impedir sua venda.
+    title: Xuxa requebra
+  model: movies.movie
+  pk: 87
+- fields:
+    cast:
+    - 222
+    - 223
+    - 224
+    genres:
+    - 6
+    - 11
+    poster: 1460522419.534591.jpg
+    synopsis: Langston é um adolescente rebelde criado pela mãe solteira que viaja
+      para passar o Natal com seus avós, com quem não tem muito contato. Além da dificuldade
+      em seguir as regras do avô, ele se depara com difíceis relacionamentos em sua
+      família e a descoberta do pai que não conhece.
+    title: Black nativity – uma jornada inesquecível
+  model: movies.movie
+  pk: 88
+- fields:
+    cast:
+    - 225
+    - 226
+    - 227
+    genres:
+    - 4
+    - 11
+    poster: 1460522420.007413.jpg
+    synopsis: A famosa dançarina Velma Kelly entra na lista de assassinas de Chicago
+      após matar seu marido, e, surpreendentemente, sua fama cresce ainda mais. Enquanto
+      isso, a cantora novata Roxie também começa a se tornar uma estrela por matar
+      o namorado. Agora, as duas terão que disputar o topo do estrelato.
+    title: Chicago
+  model: movies.movie
+  pk: 89
+- fields:
+    cast:
+    - 228
+    - 229
+    - 230
+    genres:
+    - 4
+    - 11
+    poster: 1460522420.527288.jpg
+    synopsis: As amigas Josie, Valerie e Melody formam a banda Josie e as Gatinhas,
+      que, após serem descobertas por um empresário musical, se torna um enorme sucesso.
+      Mas a gravadora pretende utilizar a banda para controlar a juventude através
+      da música. Agora ela
+    title: Josie e as gatinhas
+  model: movies.movie
+  pk: 90
+- fields:
+    cast:
+    - 231
+    - 97
+    - 232
+    genres:
+    - 6
+    - 11
+    poster: 1460522421.013533.jpg
+    synopsis: Grávida de oito meses, Karine fica desamparada quando o pai de seu filho
+      é assassinado. Aconselhada pelo seu irmão, ela decide ir a um culto na Igreja
+      Evangélica do Éden, onde conhece o pastor Naldo. Ela estranha inicialmente,
+      mas acaba integrando o rebanho.
+    title: Éden
+  model: movies.movie
+  pk: 91
+- fields:
+    cast:
+    - 233
+    - 234
+    - 31
+    genres:
+    - 11
+    - 13
+    poster: 1460522421.562517.jpg
+    synopsis: No final da década de 1930, uma noviça não consegue seguir as rígidas
+      normas do convento em que vive. Ela então vai trabalhar como governanta na casa
+      do viúvo capitão Von Trapp e seus sete filhos. Sua chegada traz alegria e música
+      para o lar da família.
+    title: A noviça rebelde
+  model: movies.movie
+  pk: 92
+- fields:
+    cast:
+    - 235
+    - 236
+    - 237
+    genres:
+    - 12
+    - 14
+    poster: 1460522425.027762.jpg
+    synopsis: Daniel Atlas é o líder de um grupo de ilusionistas. Enquanto encantam
+      o público com suas mágicas, eles roubam bancos em outro continente. O agente
+      do FBI Dylan Hobbs passa a persegui-los. Ele conta com a ajuda de uma detetive
+      da Interpol, e também de um veterano desmistificador de mágicos.
+    title: Truque de mestre
+  model: movies.movie
+  pk: 93
+- fields:
+    cast:
+    - 13
+    - 19
+    - 238
+    genres:
+    - 0
+    - 12
+    poster: 1460522425.566325.jpg
+    synopsis: O chefão de um cartel de drogas escapa da prisão e parte em uma fuga
+      alucinante em direção ao México. No entanto, antes de chegar ao seu objetivo,
+      ele precisará passar pela cidade do Xerife Ray Owens (Schwarzenegger), que contará
+      com a ajuda de um time de loucos para capturar esse perigoso elemento.
+    title: O último desafio
+  model: movies.movie
+  pk: 94
+- fields:
+    cast:
+    - 239
+    - 240
+    - 190
+    genres:
+    - 0
+    - 12
+    poster: 1460522426.129757.jpg
+    synopsis: Matt Scudder é um ex-policial que agora trabalha como detetive particular.
+      Um traficante de drogas o procura pedindo ajuda para encontrar o homem que sequestrou
+      e matou sua esposa. Com certa relutância ele concorda, e descobre que o assassino
+      já havia cometido outro crime semelhante.
+    title: Caçada mortal
+  model: movies.movie
+  pk: 95
+- fields:
+    cast:
+    - 225
+    - 17
+    - 241
+    genres:
+    - 6
+    - 12
+    poster: 1460522426.736760.jpg
+    synopsis: Em Nova York, Billy Taggart deixou a polícia e virou detetive particular.
+      Perto da época de eleição, o prefeito o contrata para investigar sua esposa,
+      a qual ele pensa estar tendo um caso. Quando Billy descobre o real motivo da
+      investigação, é chantageado pelo prefeito e se vê em grande perigo.
+    title: Linha de ação
+  model: movies.movie
+  pk: 96
+- fields:
+    cast:
+    - 242
+    - 243
+    - 244
+    genres:
+    - 6
+    - 12
+    poster: 1460522427.254948.jpg
+    synopsis: Quando sua filha e uma amiga dela desaparecem misteriosamente, Keller
+      Dover recorre ao detetive Loki, que prende Alex. Mas o suspeito logo é solto
+      por falta de provas. Porém, Keller tem certeza de que ele é o culpado e resolve
+      sequestrá-lo para descobrir a verdade custe o, que custar.
+    title: Os suspeitos
+  model: movies.movie
+  pk: 97
+- fields:
+    cast:
+    - 200
+    - 158
+    - 245
+    genres:
+    - 0
+    - 12
+    poster: 1460522427.773554.jpg
+    synopsis: Victor, um assassino profissional, é chantageado por uma mulher em busca
+      de vingança. Juntos, eles organizarão um plano contra um grande criminoso de
+      Nova York, o homem para quem ele trabalha e que foi responsável pela morte de
+      sua mulher e filha.
+    title: Sem perdão
+  model: movies.movie
+  pk: 98
+- fields:
+    cast:
+    - 246
+    - 247
+    - 248
+    genres:
+    - 0
+    - 12
+    poster: 1460522428.315526.jpg
+    synopsis: A área de Brick Mansions é extremamente violenta e abandonada pela polícia
+      local, que foi corrompida pelo crime organizado. O honesto detetive Damien Collier
+      tem a missão de entrar na região para resgatar uma bomba. Ele conta com a ajuda
+      do jovem Lino, que precisa tirar a namorada das mãos de um traficante.
+    title: 13º distrito
+  model: movies.movie
+  pk: 99
+- fields:
+    cast:
+    - 64
+    - 249
+    - 250
+    genres:
+    - 12
+    - 14
+    poster: 1460522428.784103.jpg
+    synopsis: Uma gangue decide roubar um jogo de pôquer clandestino da máfia. O assalto
+      causa muitos problemas para os mafiosos, que decidem chamar Jackie Cogan, um
+      eficiente assassino de aluguel, para descobrir o paradeiro dos assaltantes e
+      restaurar a ordem entre os negócios dos gangsteres do local.
+    title: O homem da máfia
+  model: movies.movie
+  pk: 100
+- fields:
+    cast:
+    - 77
+    - 12
+    - 251
+    genres:
+    - 0
+    - 12
+    poster: 1460522429.250719.jpg
+    synopsis: Após ajudar a prender uma gangue de motoqueiros, um ex-agente do departamento
+      de narcotráficos quer levar uma vida tranquila ao lado de sua filha. Mas, logo
+      um chefe do tráfico de drogas coloca os dois em perigo, forçando-o a voltar
+      à ativa para salvar sua família e a cidade.
+    title: Linha de frente
+  model: movies.movie
+  pk: 101
+- fields:
+    cast:
+    - 252
+    - 253
+    - 1
+    genres:
+    - 4
+    - 13
+    poster: 1460522433.227008.jpg
+    synopsis: Sutter Keely é um rapaz que leva uma vida despreocupada. Ele não leva
+      os estudos a sério, adora festas e está sempre trocando de namorada. Um dia,
+      após uma noite de bebedeira, ele acorda em um gramado ao lado de Aimee, uma
+      garota solitária e fã de quadrinhos que vai mudar a vida dele.
+    title: O maravilhoso agora
+  model: movies.movie
+  pk: 102
+- fields:
+    cast:
+    - 254
+    - 255
+    - 256
+    genres:
+    - 6
+    - 13
+    poster: 1460522433.808482.jpg
+    synopsis: Tessa é uma jovem de 17 anos que foi diagnosticada com uma doença terminal
+      e decidiu desistir do tratamento. Ela prepara uma lista do que deseja fazer
+      para aproveitar intensamente cada momento. Com a ajuda de uma amiga, tenta cumprir
+      todos os itens. O que ela não esperava era se apaixonar por Adam.
+    title: Agora e para sempre
+  model: movies.movie
+  pk: 103
+- fields:
+    cast:
+    - 257
+    - 258
+    - 259
+    genres:
+    - 14
+    poster: 1460522437.128967.jpg
+    synopsis: No dia do seu aniversário de casamento, Nick descobre que a esposa,
+      Amy, desapareceu misteriosamente. Perdido em mentiras e com um comportamento
+      estranho, ele se torna o principal suspeito da polícia. Agora, Nick precisa
+      provar sua inocência e tentar descobrir o que houve com Amy.
+    title: Garota exemplar
+  model: movies.movie
+  pk: 104
+- fields:
+    cast:
+    - 260
+    - 261
+    - 262
+    genres:
+    - 14
+    poster: 1460522437.810059.jpg
+    synopsis: Katie se mudou para Nova York para tentar a carreira de modelo. Mas
+      o que era uma simples e inocente sessão de fotos se transforma em um pesadelo.
+      Estuprada, torturada e sequestrada, ela é enterrada viva e deixada para morrer.
+      Mas Katie consegue escapar e agora planeja sua vingança.
+    title: Doce vingança 2
+  model: movies.movie
+  pk: 105
+- fields:
+    cast:
+    - 223
+    - 190
+    - 263
+    genres:
+    - 0
+    - 14
+    poster: 1460522438.279890.jpg
+    synopsis: Bryan Mills vê seus planos mudarem quando sua esposa é assassinada.
+      Acusado injustamente pelo crime, ele foge da policia e agora precisa encontrar
+      os verdadeiros culpados e proteger sua filha.
+    title: Busca implacável 3
+  model: movies.movie
+  pk: 106
+- fields:
+    cast:
+    - 109
+    - 264
+    genres:
+    - 0
+    - 14
+    poster: 1460522438.870385.jpg
+    synopsis: Paul é um assassino de Las Vegas aposentado, que precisa voltar à ativa
+      quando a sua filha é sequestrada. Agora, ele terá que confrontar um antigo inimigo,
+      que deseja se vingar de Paul.
+    title: O príncipe
+  model: movies.movie
+  pk: 107
+- fields:
+    cast:
+    - 265
+    - 266
+    - 267
+    genres:
+    - 14
+    - 15
+    poster: 1460522439.188952.jpg
+    synopsis: A fim de dar início ao seu novo livro, o escritor Ellison Oswalt se
+      muda com sua família para uma casa onde os antigos moradores foram brutalmente
+      assassinados. Logo, ele descobre antigos filmes caseiros que podem ajudá-lo
+      a desvendar os assassinatos
+    title: A entidade
+  model: movies.movie
+  pk: 108
+- fields:
+    cast:
+    - 268
+    - 269
+    - 270
+    genres:
+    - 14
+    poster: 1460522439.622023.jpg
+    synopsis: Com o poder de entrar na mente das pessoas, John foi convocado para
+      analisar Anna, filha de uma família rica e influente. Ele precisa descobrir
+      se a jovem é uma assassina ou vítima de um trauma.
+    title: Regressão
+  model: movies.movie
+  pk: 109
+- fields:
+    cast:
+    - 271
+    - 259
+    - 272
+    genres:
+    - 0
+    - 14
+    poster: 1460522440.164231.jpg
+    synopsis: Jack Reacher é um notório ex-detetive do exército dos Estados Unidos
+      que vive como um fantasma depois de pedir dispensa. Quando um ataque à tiros
+      de precisão mata cinco pessoas, e o principal suspeito é um ex-atirador de elite
+      das forças armadas, Jack é o único que pode descobrir a verdade.
+    title: 'Jack Reacher: o último tiro'
+  model: movies.movie
+  pk: 110
+- fields:
+    cast:
+    - 273
+    - 274
+    - 275
+    genres:
+    - 15
+    poster: 1460522473.239471.jpg
+    synopsis: Após a morte de Debbie, um grupo de amigos resolve usar o tabuleiro
+      Ouija para conversar com o espirito dela. Após a sessão, situações estranhas
+      começam acontecer com cada um deles.
+    title: 'Ouija: o jogo dos espíritos'
+  model: movies.movie
+  pk: 111
+- fields:
+    cast:
+    - 276
+    - 277
+    - 24
+    genres:
+    - 6
+    - 15
+    poster: 1460522473.789723.jpg
+    synopsis: Inspirado no clássico romance de Ira Levin. Após perder o bebê ainda
+      na barriga, Rosemary é escolhida por uma seita para ser a progenitora do filho
+      do Diabo. Sem saber que ela saiba disso, o senhor das trevas começa a rondar
+      sua mente.
+    title: O bebê de Rosemary - Parte 1 (2014)
+  model: movies.movie
+  pk: 112
+- fields:
+    cast:
+    - 152
+    - 278
+    - 279
+    genres:
+    - 15
+    poster: 1460522474.359589.jpg
+    synopsis: Dois irmãos tentam provar que a morte inexplicável dos pais foi devida
+      a um espelho que está na família há gerações. Porém, eles devem se apressar,
+      já que fenômenos estranhos também os perseguem.
+    title: O espelho
+  model: movies.movie
+  pk: 113
+- fields:
+    cast:
+    - 280
+    - 281
+    - 282
+    genres:
+    - 14
+    - 15
+    poster: 1460522474.966284.jpg
+    synopsis: 'Um grupo de parapsicólogos recebe uma nova missão: investigar os estranhos
+      fenômenos que estão ocorrendo com uma família em luto. Os acontecimentos misteriosos
+      iniciaram após a morte da mãe, mas se tornam mais perigosos quando a família
+      se muda para'
+    title: Apartamento 143
+  model: movies.movie
+  pk: 114
+- fields:
+    cast:
+    - 283
+    - 284
+    - 285
+    genres:
+    - 14
+    - 15
+    poster: 1460522475.478733.jpg
+    synopsis: Em 88 minutos, você verá, em tempo real, o thriller que mostra momentos
+      aterrorizantes de Sarah e seu pai, que decidem reformar a casa de campo, abandonada
+      há muito tempo. Ao chegarem lá, percebem que terão de passar uma noite sem energia
+      elétrica. Mal sabem que, nesse tempo, algo os assombrará.
+    title: A casa silenciosa
+  model: movies.movie
+  pk: 115
+- fields:
+    cast:
+    - 276
+    - 277
+    - 24
+    genres:
+    - 6
+    - 15
+    poster: 1460522476.705575.jpg
+    synopsis: Inspirado no clássico romance de Ira Levin. Após engravidar, coisas
+      estranhas e demoníacas acontecem ao redor de Rosemary e pessoas começam a morrer
+      de forma estranha.
+    title: O bebê de Rosemary - parte 2 (2014)
+  model: movies.movie
+  pk: 116
+- fields:
+    cast:
+    - 286
+    - 287
+    - 288
+    genres:
+    - 8
+    - 15
+    poster: 1460522477.280851.jpg
+    synopsis: Uma família sai de férias e acaba se perdendo e o patriarca desaparece.
+      A mãe e os filhos procuram refúgio em uma cabana e descobrem que o local é conhecido
+      por inúmeros casos de abdução alienígena. Quando eles vão em busca de ajuda,
+      os seres misteriosos tentam capturá-los de todas as maneiras.
+    title: Abdução
+  model: movies.movie
+  pk: 117
+- fields:
+    cast:
+    - 289
+    - 290
+    - 291
+    genres:
+    - 14
+    - 15
+    poster: 1460522477.857867.jpg
+    synopsis: Heather Mason e seu pai Harry estão sempre fugindo de perigosas forças
+      demoníacas que não entendem direito. Mas quando ele desaparece misteriosamente,
+      a jovem se depara com uma estranha realidade que guarda respostas sobre os pesadelos
+      que a aterrorizam desde criança.
+    title: 'Silent Hill: revelação'
+  model: movies.movie
+  pk: 118
+- fields:
+    cast:
+    - 292
+    - 293
+    - 294
+    genres:
+    - 15
+    poster: 1460522478.301871.jpg
+    synopsis: Dois casais viajam ao interior da Irlanda e descobrem o segredo de uma
+      pacata cidade, a antiga lenda local é uma aterrorizante verdade. Eles terão
+      que enfrentar uma horripilante criatura que está à caça deles.
+    title: 'Leprechaun: a origem'
+  model: movies.movie
+  pk: 119
+- fields:
+    cast:
+    - 295
+    - 190
+    genres:
+    - 4
+    - 16
+    poster: 1460522482.486030.jpg
+    synopsis: Quando sua namorada termina o relacionamento, Albert, um criador de
+      ovelhas, fica desolado. Até que conhece Anna, uma misteriosa forasteira que
+      fará com que ele descubra a coragem que tem em si. Albert, porém, se vê em perigo
+      quando o marido dela, um famoso foragido da justiça, volta para se vingar.
+    title: Um milhão de maneiras de pegar na pistola
+  model: movies.movie
+  pk: 120
+- fields:
+    cast:
+    - 296
+    - 297
+    - 298
+    genres:
+    - 6
+    - 16
+    poster: 1460522482.981144.jpg
+    synopsis: Ao atravessar a fronteira do México pros EUA, uma mulher é morta, e
+      o imigrante é considerado suspeito. Porém o marido da vitima decide investigar
+      para descobrir o verdadeiro responsável pelo crime.
+    title: Fronteira
+  model: movies.movie
+  pk: 121
+- fields:
+    cast:
+    - 299
+    - 300
+    genres:
+    - 16
+    poster: 1460522483.545689.jpg
+    synopsis: Remake do faroeste estrelado por John Wayne. John Mason é um homem procurado,
+      mas, quando seu pai é morto, vai atrás do culpado para obter sua vingança. Ao
+      mesmo tempo, terá que lidar com a polícia e evitar ir para a cadeia.
+    title: A difícil vingança
+  model: movies.movie
+  pk: 122
+- fields:
+    cast:
+    - 301
+    - 302
+    - 303
+    genres:
+    - 2
+    - 16
+    poster: 1460522484.040539.jpg
+    synopsis: Uma patrulha do exército é designada para entregar um tratado de paz
+      a uma tribo indígena. Com o prazo curto, o desafio no Oeste se tornará ainda
+      mais complicado ao precisarem enfrentar um índio que não deseja o acordo.
+    title: A trilha da amargura
+  model: movies.movie
+  pk: 123
+- fields:
+    cast:
+    - 304
+    - 305
+    - 306
+    genres:
+    - 16
+    poster: 1460522484.719342.jpg
+    synopsis: Morg Hickman é um ex-xerife que, após perder a mulher e o filho, se
+      torna um temido caçador de recompensas. Ao chegar à cidade em busca do pagamento,
+      ele conhece o novo xerife, Ben Owens, que recorre à sua experiência para acabar
+      com a violência.
+    title: O homem dos olhos frios
+  model: movies.movie
+  pk: 124
+- fields:
+    cast:
+    - 307
+    - 308
+    - 309
+    genres:
+    - 16
+    poster: 1460522485.221403.jpg
+    synopsis: Clint Keyes é um desertor da cavalaria. Na fuga, ele encontra um pequeno
+      índio, que descobre ser um garoto branco. O menino foi tirado da tribo onde
+      se criou, e agora está fugindo pelo deserto para reencontrar sua família de
+      índios. Com objetivos diferentes, os dois criam uma grande amizade.
+    title: O pequeno índio
+  model: movies.movie
+  pk: 125
+- fields:
+    cast:
+    - 310
+    - 310
+    genres:
+    - 4
+    - 16
+    poster: 1460522485.762152.jpg
+    synopsis: Os fora-da-lei Butch Cassidy e Sundance Kid ficaram marcados na história
+      do cinema e, neste faroeste, as primeiras aventuras dos criminosos são retratadas.
+      Com humor e tiros, a dupla começa a dar os primeiros passos na vida de crimes,
+      com a ousadia que os tornaria personagens lendários.
+    title: A juventude de Butch Cassidy
+  model: movies.movie
+  pk: 126
+- fields:
+    cast:
+    - 311
+    - 312
+    genres:
+    - 4
+    - 16
+    poster: 1460522486.537032.jpg
+    synopsis: Durante um jogo de cartas, a jovem Wanda Nevada conhece Beaudray Demerille.
+      Juntos, eles partem para o Grand Canyon em busca da promessa de encontrar ouro.
+    title: Wanda Nevada
+  model: movies.movie
+  pk: 127
+- fields:
+    cast:
+    - 313
+    - 314
+    - 315
+    genres:
+    - 16
+    poster: 1460522487.466999.jpg
+    synopsis: Jimmy Ringo construiu sua fama por ser um pistoleiro rápido no gatilho.
+      Quando ele vai para Caeyene em 1880, sua intenção é apenas refazer sua vida
+      e viver em paz, mas sua reputação atrai um homem ambicioso que o desafia em
+      um duelo perigoso.
+    title: O matador
+  model: movies.movie
+  pk: 128
+- fields:
+    cast:
+    - 304
+    - 316
+    - 317
+    genres:
+    - 16
+    poster: 1460522488.250375.jpg
+    synopsis: Jacob Wade é um famoso pistoleiro que participou de muitos assaltos.
+      Disposto a recomeçar a sua vida, ele vai procurar o filho, o jovem Riley. Eles
+      começam a viver juntos, mas o rapaz ainda o culpa por tê-lo abandonado e, de
+      certa forma, pela morte de sua mãe.
+    title: O bandoleiro solitário
+  model: movies.movie
+  pk: 129

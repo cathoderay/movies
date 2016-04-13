@@ -1,0 +1,13 @@
+{% extends "movies/base.html" %}
+
+{% block content %}
+
+    <div class="container">
+        <span class="header">Listagem de filmes</span>
+        {% include "movies/sort_bar.html" %}
+        <hr>
+    </div>
+
+    {% include "movies/movies_list.html" %}
+
+{% endblock %}

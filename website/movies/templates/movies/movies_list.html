@@ -1,0 +1,18 @@
+<div class="container jumbotron" id="sortable">
+    {% for movie in movies %}
+        {% if forloop.counter0|divisibleby:"5" %}
+            <div class="row">
+              <div class="col-xs-1"></div>
+        {% endif %}
+                <div class="movie col-xs-2" >
+                    <a href="/movies/{{movie.id}}">
+                        <img class="img-rounded img-responsive" src="{{movie.poster.url}}" title="{{movie}}">
+                        <span class="hidden">{{movie.title}}</span>
+                    </a>
+                </div>
+        {% if forloop.counter|divisibleby:"5" or forloop.last %}
+              <div class="col-xs-1"></div>
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>

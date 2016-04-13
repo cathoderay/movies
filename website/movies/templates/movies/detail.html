@@ -1,0 +1,32 @@
+{% extends "movies/base.html"  %}
+
+{% block content %}
+<div class="container jumbotron">
+    <div class='row'>
+        <div class='col-xs-3'>
+            <img class='center-block img-responsive img-rounded' src="{{movie.poster.url}}">
+        </div>
+        <div class='col-xs-9'>
+            <h2>{{ movie.title }}</h2> 
+            {{ movie.synopsis }}
+
+            <div class="item"></div>
+            <span>Gêneros:</span>
+                {% for genre in movie.genres.all %}
+                    {% if not forloop.first %}, {% endif %}
+                    <span><a href="/movies/genres/{{genre.id}}">{{genre.name}}</a></span>
+                {% endfor %}
+
+            <div class="item"></div>
+            <span>Atores:</span>
+            {% for actor in movie.cast.all %}
+                {% if not forloop.first %}, {% endif %}
+                <span><a href="/movies/actor/{{actor.id}}">{{actor.name}}</a></span>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% include "movies/related_movies.html"  %}
+
+{% endblock %}
