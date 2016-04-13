@@ -23,5 +23,6 @@ Default username: admin
 Default password: 1234
 
 ## todo
-   * In order to scale, this code should migrate from python to js. Using angularjs + pagination will improve its performance a lot; Unfortunately, I didn't have the time to make it work yet;
+   * In order to scale, this code should migrate from python to js. Using angularjs + pagination (fetching data as needed) would improve its performance a lot; Unfortunately, I didn't have time to make it work yet;
+   * Add prod settings;
    * Write tests!
