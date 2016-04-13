@@ -45,7 +45,7 @@ def get_movies_codes(genre):
     driver.get(url)
     posters = driver.find_elements_by_class_name('poster')
     return [poster.get_attribute('data-video-id')
-            for poster in posters[:10]] #gets 5 movies per genre
+            for poster in posters[:10]] #gets 10 movies per genre
  
  
 def get_movies_data():
