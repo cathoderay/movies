@@ -12,6 +12,9 @@ This script assumes you have *git*, *virtualenv* and *pip* installed. I suggest 
 If everything runs smoothly, you should be able to see something like this:
 ![Screenshot](https://github.com/cathoderay/movies/blob/master/screenshots/home.jpg)
 
+## database
+This projects contains a db.sqlite database, so you can deal with the resulting app right away. The dataset was collected via webscrapping. The script used is contained in the **fixtures** directory.
+
 ## admin
 In order to manage the movies, you can go to **/admin**:
 
